@@ -7,7 +7,7 @@ const FAQSection = () => {
         </h2>
 
         <div className="text-left space-y-6">
-          {/* FAQ 1 */}
+         
           <div>
             <h4 className="font-semibold text-lg text-blue-600">
               What age group is this microcourse designed for?
@@ -17,7 +17,7 @@ const FAQSection = () => {
             </p>
           </div>
 
-          {/* FAQ 2 */}
+          
           <div>
             <h4 className="font-semibold text-lg text-blue-600">
               How long is the course and what is the format?
@@ -27,7 +27,7 @@ const FAQSection = () => {
             </p>
           </div>
 
-          {/* FAQ 3 */}
+        
           <div>
             <h4 className="font-semibold text-lg text-blue-600">
               Do parents need to be involved in the course?
